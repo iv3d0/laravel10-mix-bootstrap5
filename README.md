@@ -12,8 +12,8 @@ This is a starter template for a Laravel 10 project with WebpackMix, Bootstrap5,
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/laravel10-webpackmix-bootstrap5-jquery.git`
-2. Navigate to the project directory: `cd laravel10-webpackmix-bootstrap5-jquery`
+1. Clone this repository: `git clone https://github.com/iv3d0/laravel10-mix-bootstrap5.git`
+2. Navigate to the project directory: `cd laravel10-mix-bootstrap5`
 3. Install dependencies: `composer install && npm install`
 4. Create a new `.env` file: `cp .env.example .env`
 5. Generate a new application key: `php artisan key:generate`
